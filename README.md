@@ -1,4 +1,4 @@
-Simple HTML-Only Web Page
+<b>Simple HTML-Only Web Page</b>
 
 This project contains a simple web page created using only HTML, without the use of CSS.
 Files
